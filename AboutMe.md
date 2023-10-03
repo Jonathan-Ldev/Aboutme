@@ -25,8 +25,7 @@ My main influence is my dad
 | Quick Learner| ??? |
 | Hard working| ??? |
 
-'''python'''
-answer = random.randint(1, 8192)
+```python``` answer = random.randint(1, 8192)
 guess = random.randint(1, 8192)
 counter = 1
 while not answer == guess:
