@@ -12,6 +12,7 @@
 - Software Developer
 ### Hobbies
 I play **A Lot** of Video Games
+, Like too many :sweat_smile:
 
 ### General
 My main influence is my dad 
@@ -25,7 +26,7 @@ My main influence is my dad
 | Quick Learner| ??? |
 | Hard working| ??? |
 
-```python``` answer = random.randint(1, 8192)
+```python answer = random.randint(1, 8192)
 guess = random.randint(1, 8192)
 counter = 1
 while not answer == guess:
@@ -34,4 +35,12 @@ while not answer == guess:
   if guess != answer:
     guess = random.randint(1, 8192)
 print(counter)
-print('Shiny!')
+print('Lucky!')
+```
+This is a little bit of code I made to see how accurate the odds of a 1 in 8192 chance is, turns out it wasn't too far off.
+ ![image](https://github.com/Jonathan-Ldev/Aboutme/assets/146845797/aad8de48-b030-470b-8708-c3075832afee)
+( May have been inspired by Pokemon's Shiny Pokemon mechanic )
+#### Favorite Websites
+- https://orteil.dashnet.org/cookieclicker/
+- https://www.youtube.com
+- https://replit.com
